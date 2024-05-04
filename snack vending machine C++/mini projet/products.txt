@@ -1,0 +1,9 @@
+1,Coca-Cola   ,350,5,2
+2,Fanta       ,450,5,2
+3,Sprite      ,450,5,2
+4,FANTA       ,300,5,1
+5,Tango       ,100,5,1
+6,Be          ,300,5,1
+7,MoMo        ,100,5,1
+8,Leader Chips,200,5,2
+9,Lays        ,250,5,2

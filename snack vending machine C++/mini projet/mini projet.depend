@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1714841343 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\automat.cpp
+	<iostream>
+	<string>
+	"Automat.h"
+	<fstream>
+	"SmallSlot.h"
+	"WideSlot.h"
+	"slot.h"
+
+1714788151 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\automat.h
+	"Slot.h"
+	"Keypad.h"
+	"DropCheck.h"
+	"CoinSlot.h"
+
+1714787873 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\slot.h
+	<iostream>
+	<string>
+	"Motor.h"
+
+1714738765 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\motor.h
+
+1714759060 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\keypad.h
+
+1714422944 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\dropcheck.h
+
+1714741981 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\coinslot.h
+
+1714787047 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\smallslot.h
+	"motor.h"
+	<string>
+	"Slot.h"
+
+1714787840 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\wideslot.h
+	<string>
+	"motor.h"
+	"Slot.h"
+
+1714770039 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\clavier.cpp
+	<iostream>
+	<string>
+	"Keypad.h"
+
+1714841592 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\coinslot.cpp
+	<iostream>
+	<string>
+	"CoinSlot.h"
+
+1714422039 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\dropcheck.cpp
+	"DropCheck.h"
+	<random>
+
+1714790903 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\main.cpp
+	"Automat.h"
+	"WideSlot.h"
+	"SmallSlot.h"
+	<iostream>
+	<string>
+	<iostream>
+	<fstream>
+
+1714841500 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\motor.cpp
+	"motor.h"
+	<iostream>
+
+1714841501 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\slot.cpp
+	<iostream>
+	<string>
+	"Slot.h"
+
+1714841343 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\smallslot.cpp
+	<iostream>
+	<string>
+	"SmallSlot.h"
+
+1714841427 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\prt cpp\wideslot .cpp
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+	"WideSlot.h"
+
+1714841343 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\automat.cpp
+	<iostream>
+	<string>
+	"Automat.h"
+	<fstream>
+	"SmallSlot.h"
+	"WideSlot.h"
+	"slot.h"
+
+1714788151 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\automat.h
+	"Slot.h"
+	"Keypad.h"
+	"DropCheck.h"
+	"CoinSlot.h"
+
+1714787873 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\slot.h
+	<iostream>
+	<string>
+	"Motor.h"
+
+1714738765 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\motor.h
+
+1714759060 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\keypad.h
+
+1714422944 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\dropcheck.h
+
+1714741981 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\coinslot.h
+
+1714787047 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\smallslot.h
+	"motor.h"
+	<string>
+	"Slot.h"
+
+1714787840 d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\wideslot.h
+	<string>
+	"motor.h"
+	"Slot.h"
+
+1714770039 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\clavier.cpp
+	<iostream>
+	<string>
+	"Keypad.h"
+
+1714841592 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\coinslot.cpp
+	<iostream>
+	<string>
+	"CoinSlot.h"
+
+1714422039 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\dropcheck.cpp
+	"DropCheck.h"
+	<random>
+
+1714790903 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\main.cpp
+	"Automat.h"
+	"WideSlot.h"
+	"SmallSlot.h"
+	<iostream>
+	<string>
+	<iostream>
+	<fstream>
+
+1714841500 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\motor.cpp
+	"motor.h"
+	<iostream>
+
+1714841501 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\slot.cpp
+	<iostream>
+	<string>
+	"Slot.h"
+
+1714841343 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\smallslot.cpp
+	<iostream>
+	<string>
+	"SmallSlot.h"
+
+1714841427 source:d:\mip cour\cycle dingeieur\s2_gi\tp c++\mini projet\mini projet cpp\snack vending machine c++\wideslot .cpp
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+	"WideSlot.h"
+
